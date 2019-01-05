@@ -7,4 +7,4 @@ Stack:
 * Sass
 * Adaptive layout
 
-Please, contact me for any information relevant to my resume.
+Please, contact me for any information relevant to my resume!
